@@ -1,0 +1,11 @@
+[package]
+name = "my_little_twitch_tray"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+glib = "0.10.1"
+gtk = "0.9.1"
+libappindicator = "0.5.2"
